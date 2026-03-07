@@ -1,0 +1,93 @@
+{
+  "modoOperacao": "producao",
+  "tipoInstalacao": "CXA",
+  "debugOptions": {
+    "testeEncaixe": false,
+    "marcaDetectada": true,
+    "falsoPositivo": false
+  },
+  "scanner": {
+    "device": "brother5:bus2;dev2",
+    "description": "Brother DS-740D USB scanner"
+  },
+  "paperFormat": "A5",
+  "paperFormatCustom": {
+    "width": 148,
+    "height": null
+  },
+  "scanResolution": 100,
+  "mascaraNumeroComanda": "99999",
+  "pincelMarcador": {
+    "cor": "#FF00FF",
+    "tamanho": 5
+  },
+  "comandaConfig": {
+    "tipoComanda": "frente-verso",
+    "dimensoes": {
+      "largura": 105,
+      "altura": 135
+    },
+    "alinhamentoFrente": "23|90",
+    "alinhamentoVerso": "46|58",
+    "testeFrenteLocalizar": "bebidas"
+  },
+  "database_local": {
+    "__enc__": true,
+    "iv": "e7199e39fcc5adf6bab058e0cac6162a",
+    "data": "ffbZTItOhH1lqCcFiwmuGScMW3P2+4lMfInYJIphEBHeJImjTcVmyuCizGM5A2z1r1S7pXu5m6pvdK6gk3xbjHyqoSaI7zmg/GG3iIcJkgN1HuP6NxgRA9ZKf7XaRSRjaMcAj7k5udoB3x7f3kV114IJwgGJPHmGiUte8NGA4dRTw3F0b16gO0pXgvwA0TVSs70psMgewLMIUvGhtwfy5u4fVMhDaGvyTV4hZk0r56m6/oVTuAg6wxTTrvcVOxOZFN03pAAzrjq/C1joRykuSgLrZmJ36vUP1yM/fbmO8uwxi9qo7gwxJahRzT5ccFR/T0JnUWdnzPg80cTNNbdPgPG368aGJND6AgBsbzs6Pjo="
+  },
+  "database_remoto": {
+    "__enc__": true,
+    "iv": "2e4e9fdac1c29b13f5251b892ff3cd42",
+    "data": "s0fh8RixWkOF+YuDE7YijOqktJxX8NvQ+kqeG2B7CW2Vhg6p6a8SmREOxiI3c4WI7jflhO3ZIG7sHH5QvBkdAfMF7HMpHmjJSpBcwDxkgiNxqVbLFKKpUY2b6WN0zAiDt3q7DMjgQ4nIFCyq4POVliqDQltumK+1mZvKhWeb6dI6ckQOqLmGO9mJz+P70fn+RGG0fi7EqxgWLCpuzi0inHcFlkiyOfqSb8hzq93hMyuQBvhvDGmg4Tdo4OUhR/gkhjpv77RZIpuzLO7z/CXo5zohlj3eBAmB4XxsK2rI28Hs7mZU88UBaugEetyNXpKqhMQBDeCnFc0drhljbXFjgA=="
+  },
+  "_path": "/home/gabriel/dev/cursor-projects/comanda/config.json",
+  "isProducao": true,
+  "isHomologacao": false,
+  "fechamentoCaixaFields": {
+    "field01": {
+      "titulo": "PAX",
+      "dataType": "INT"
+    },
+    "field02": {
+      "titulo": "SEM CONSUMO",
+      "dataType": "INT",
+      "tipo": "qtdeComandas"
+    },
+    "field03": {
+      "titulo": "SEM COMANDA",
+      "dataType": "INT",
+      "tipo": "qtdeComandas"
+    },
+    "field04": {
+      "titulo": "COMANDAS PERDIDAS",
+      "dataType": "INT",
+      "tipo": "qtdeComandas"
+    },
+    "field05": {
+      "titulo": "NOTAS",
+      "dataType": "DECIMAL",
+      "tipo": "despesa_dinheiro"
+    }
+  },
+  "aberturaCaixaFields": {
+    "field01": {
+      "titulo": "Comanda Inicial",
+      "dataType": "INT"
+    },
+    "field02": {
+      "titulo": "Comanda Final",
+      "dataType": "INT"
+    }
+  },
+  "smtpConfigs": {
+    "__enc__": true,
+    "iv": "ba00039b1372439c88c0306b83a8e79e",
+    "data": "L5eFsx4v4Edm3WRqZG3vFaRhoqLPwwK2+iiP0iNgBzGurtf29GgZ/gYPRHKXmwglStehBhzj9ETmHMIourLwi4so68J6tlKh9rDPD+1v4L12ZzJYiJUGbq8NEJZBugcFvZ4ku+PAdEcNquwkbji1fX5fbcQyPFhthL4PCs8eO9tCubsFU9Fq7dOPyU5dfsm3luR+366KprL9VEEaPM6YcucN8l/s1F3GXKbVmp5bHj9bB4VcvXC8BD7JYWTFKeC5tUX6ph9JlOOEwnBEfvy8cKEFHt+dCrNcERLbru2hDwOy/EQqE5UHkP9GXO55nSg8p8WqKxamT1EEDtzDWYv4B09SFCM/LjuuuTii6BQy01TOqaiBrN8oei6aUCu5v13Ls/rzX3Y/vTgSyO2TH/iy/w47vYa5RHTl22H+kpI7gsK/LSBLsR/Jxhm27lxlO1cpw/RjoBinOk9qUoWhLir5G65DTODXQ0T5pMQh2IO8MZ5wmd0VoX24s4NJ4VpQc+KS"
+  },
+  "google_drive": {
+    "__enc__": true,
+    "iv": "53aa01c1b3fbc5a638ae41c6cad2c677",
+    "data": "vrWsCBQBzm3bs9cscb7YyN52XjDJmU9PpveYcfZGt8lrKziW7Cl2VkjE6Glce4UJWXiWjOtiMl8K3QSqy2IUw4LwudqnI3XQwFqUPZfM6+I="
+  }
+}

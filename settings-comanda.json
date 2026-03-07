@@ -1,0 +1,2562 @@
+{
+  "pages": [
+    {
+      "id": "frente",
+      "lines": [
+        {
+          "id": 1,
+          "label": "frente-linha-1",
+          "roi": [
+            {
+              "id": "frente-linha-1-coluna-1",
+              "x": 774,
+              "y": 313,
+              "width": 47,
+              "height": 53,
+              "verifica_encaixe": true
+            },
+            {
+              "id": "frente-linha-1-coluna-2",
+              "x": 821,
+              "y": 313,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-3",
+              "x": 868,
+              "y": 313,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-4",
+              "x": 914,
+              "y": 313,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-5",
+              "x": 960,
+              "y": 313,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-6",
+              "x": 1006,
+              "y": 313,
+              "width": 48,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-7",
+              "x": 1054,
+              "y": 313,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-1-coluna-8",
+              "x": 1100,
+              "y": 313,
+              "width": 48,
+              "height": 53
+            }
+          ],
+          "xPROD": "Cerveja Long Neck",
+          "cPROD": "23",
+          "vUnCom": 20
+        },
+        {
+          "id": 2,
+          "label": "frente-linha-2",
+          "roi": [
+            {
+              "id": "frente-linha-2-coluna-1",
+              "x": 774,
+              "y": 366,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-2",
+              "x": 821,
+              "y": 366,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-3",
+              "x": 868,
+              "y": 366,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-4",
+              "x": 914,
+              "y": 366,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-5",
+              "x": 960,
+              "y": 366,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-6",
+              "x": 1006,
+              "y": 366,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-7",
+              "x": 1054,
+              "y": 366,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-2-coluna-8",
+              "x": 1100,
+              "y": 366,
+              "width": 48,
+              "height": 51
+            }
+          ],
+          "cPROD": "27",
+          "xPROD": "Energético",
+          "vUnCom": 20
+        },
+        {
+          "id": 3,
+          "label": "frente-linha-3",
+          "roi": [
+            {
+              "id": "frente-linha-3-coluna-1",
+              "x": 774,
+              "y": 417,
+              "width": 47,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-2",
+              "x": 821,
+              "y": 417,
+              "width": 47,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-3",
+              "x": 868,
+              "y": 417,
+              "width": 46,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-4",
+              "x": 914,
+              "y": 417,
+              "width": 46,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-5",
+              "x": 960,
+              "y": 417,
+              "width": 46,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-6",
+              "x": 1006,
+              "y": 417,
+              "width": 48,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-7",
+              "x": 1054,
+              "y": 417,
+              "width": 46,
+              "height": 49
+            },
+            {
+              "id": "frente-linha-3-coluna-8",
+              "x": 1100,
+              "y": 417,
+              "width": 48,
+              "height": 49
+            }
+          ],
+          "xPROD": "Smirnoff Ice",
+          "vUnCom": 20,
+          "cPROD": "28"
+        },
+        {
+          "id": 4,
+          "label": "frente-linha-4",
+          "roi": [
+            {
+              "id": "frente-linha-4-coluna-1",
+              "x": 774,
+              "y": 466,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-2",
+              "x": 821,
+              "y": 466,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-3",
+              "x": 868,
+              "y": 466,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-4",
+              "x": 914,
+              "y": 466,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-5",
+              "x": 960,
+              "y": 466,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-6",
+              "x": 1006,
+              "y": 466,
+              "width": 48,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-7",
+              "x": 1054,
+              "y": 466,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-4-coluna-8",
+              "x": 1100,
+              "y": 466,
+              "width": 48,
+              "height": 53
+            }
+          ],
+          "xPROD": "Refrigerante Lata",
+          "vUnCom": 10,
+          "cPROD": "22"
+        },
+        {
+          "id": 5,
+          "label": "frente-linha-5",
+          "roi": [
+            {
+              "id": "frente-linha-5-coluna-1",
+              "x": 774,
+              "y": 519,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-2",
+              "x": 821,
+              "y": 519,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-3",
+              "x": 868,
+              "y": 519,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-4",
+              "x": 914,
+              "y": 519,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-5",
+              "x": 960,
+              "y": 519,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-6",
+              "x": 1006,
+              "y": 519,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-7",
+              "x": 1054,
+              "y": 519,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-5-coluna-8",
+              "x": 1100,
+              "y": 519,
+              "width": 48,
+              "height": 51
+            }
+          ],
+          "xPROD": "Suco Garrafa (300ml)",
+          "vUnCom": 18,
+          "cPROD": "26"
+        },
+        {
+          "id": 6,
+          "label": "frente-linha-6",
+          "roi": [
+            {
+              "id": "frente-linha-6-coluna-1",
+              "x": 774,
+              "y": 570,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-2",
+              "x": 821,
+              "y": 570,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-3",
+              "x": 868,
+              "y": 570,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-4",
+              "x": 914,
+              "y": 570,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-5",
+              "x": 960,
+              "y": 570,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-6",
+              "x": 1006,
+              "y": 570,
+              "width": 48,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-7",
+              "x": 1054,
+              "y": 570,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-6-coluna-8",
+              "x": 1100,
+              "y": 570,
+              "width": 48,
+              "height": 52
+            }
+          ],
+          "xPROD": "Água Mineral (500ml)",
+          "vUnCom": 7,
+          "cPROD": "20"
+        },
+        {
+          "id": 7,
+          "label": "frente-linha-7",
+          "roi": [
+            {
+              "id": "frente-linha-7-coluna-1",
+              "x": 774,
+              "y": 622,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-2",
+              "x": 821,
+              "y": 622,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-3",
+              "x": 868,
+              "y": 622,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-4",
+              "x": 914,
+              "y": 622,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-5",
+              "x": 960,
+              "y": 622,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-6",
+              "x": 1006,
+              "y": 622,
+              "width": 48,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-7",
+              "x": 1054,
+              "y": 622,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-7-coluna-8",
+              "x": 1100,
+              "y": 622,
+              "width": 48,
+              "height": 52
+            }
+          ],
+          "xPROD": "Café expresso",
+          "vUnCom": 8,
+          "cPROD": "24"
+        },
+        {
+          "id": 8,
+          "label": "frente-linha-8",
+          "roi": [
+            {
+              "id": "frente-linha-8-coluna-1",
+              "x": 774,
+              "y": 674,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-2",
+              "x": 821,
+              "y": 674,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-3",
+              "x": 868,
+              "y": 674,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-4",
+              "x": 914,
+              "y": 674,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-5",
+              "x": 960,
+              "y": 674,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-6",
+              "x": 1006,
+              "y": 674,
+              "width": 48,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-7",
+              "x": 1054,
+              "y": 674,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-8-coluna-8",
+              "x": 1100,
+              "y": 674,
+              "width": 48,
+              "height": 53
+            }
+          ],
+          "xPROD": "Whisky 8 anos",
+          "vUnCom": 29,
+          "cPROD": "31"
+        },
+        {
+          "id": 9,
+          "label": "frente-linha-9",
+          "roi": [
+            {
+              "id": "frente-linha-9-coluna-1",
+              "x": 774,
+              "y": 727,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-2",
+              "x": 821,
+              "y": 727,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-3",
+              "x": 868,
+              "y": 727,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-4",
+              "x": 914,
+              "y": 727,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-5",
+              "x": 960,
+              "y": 727,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-6",
+              "x": 1006,
+              "y": 727,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-7",
+              "x": 1054,
+              "y": 727,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-9-coluna-8",
+              "x": 1100,
+              "y": 727,
+              "width": 48,
+              "height": 51
+            }
+          ],
+          "xPROD": "Whisky 12 anos",
+          "vUnCom": 35,
+          "cPROD": "32",
+          "row_gap": 117
+        },
+        {
+          "id": 10,
+          "label": "frente-linha-10",
+          "roi": [
+            {
+              "id": "frente-linha-10-coluna-1",
+              "x": 772,
+              "y": 846,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-2",
+              "x": 819,
+              "y": 846,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-3",
+              "x": 866,
+              "y": 846,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-4",
+              "x": 911,
+              "y": 846,
+              "width": 49,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-5",
+              "x": 960,
+              "y": 846,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-6",
+              "x": 1007,
+              "y": 846,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-7",
+              "x": 1052,
+              "y": 846,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-10-coluna-8",
+              "x": 1099,
+              "y": 846,
+              "width": 45,
+              "height": 51
+            }
+          ],
+          "xPROD": "Caipira (Vodka ou Cachaça)",
+          "vUnCom": 36,
+          "cPROD": "33"
+        },
+        {
+          "id": 11,
+          "label": "frente-linha-11",
+          "roi": [
+            {
+              "id": "frente-linha-11-coluna-1",
+              "x": 772,
+              "y": 897,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-2",
+              "x": 819,
+              "y": 897,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-3",
+              "x": 866,
+              "y": 897,
+              "width": 45,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-4",
+              "x": 911,
+              "y": 897,
+              "width": 49,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-5",
+              "x": 960,
+              "y": 897,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-6",
+              "x": 1007,
+              "y": 897,
+              "width": 45,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-7",
+              "x": 1052,
+              "y": 897,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "frente-linha-11-coluna-8",
+              "x": 1099,
+              "y": 897,
+              "width": 45,
+              "height": 50
+            }
+          ],
+          "xPROD": "Gin Tônica",
+          "vUnCom": 34,
+          "cPROD": "88"
+        },
+        {
+          "id": 12,
+          "label": "frente-linha-12",
+          "roi": [
+            {
+              "id": "frente-linha-12-coluna-1",
+              "x": 772,
+              "y": 947,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-2",
+              "x": 819,
+              "y": 947,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-3",
+              "x": 866,
+              "y": 947,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-4",
+              "x": 911,
+              "y": 947,
+              "width": 49,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-5",
+              "x": 960,
+              "y": 947,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-6",
+              "x": 1007,
+              "y": 947,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-7",
+              "x": 1052,
+              "y": 947,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-12-coluna-8",
+              "x": 1099,
+              "y": 947,
+              "width": 45,
+              "height": 52
+            }
+          ],
+          "xPROD": "Tropical Gin (Gin e Red Bull Tropicay)",
+          "vUnCom": 40,
+          "cPROD": "89"
+        },
+        {
+          "id": 13,
+          "label": "frente-linha-13",
+          "roi": [
+            {
+              "id": "frente-linha-13-coluna-1",
+              "x": 772,
+              "y": 999,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-2",
+              "x": 819,
+              "y": 999,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-3",
+              "x": 866,
+              "y": 999,
+              "width": 45,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-4",
+              "x": 911,
+              "y": 999,
+              "width": 49,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-5",
+              "x": 960,
+              "y": 999,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-6",
+              "x": 1007,
+              "y": 999,
+              "width": 45,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-7",
+              "x": 1052,
+              "y": 999,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "frente-linha-13-coluna-8",
+              "x": 1099,
+              "y": 999,
+              "width": 45,
+              "height": 53
+            }
+          ],
+          "xPROD": "Aperol Spritz",
+          "vUnCom": 40,
+          "cPROD": "97",
+          "row_gap": 120
+        },
+        {
+          "id": 14,
+          "label": "frente-linha-14",
+          "roi": [
+            {
+              "id": "frente-linha-14-coluna-1",
+              "x": 771,
+              "y": 1118,
+              "width": 50,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-2",
+              "x": 821,
+              "y": 1118,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-3",
+              "x": 866,
+              "y": 1118,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-4",
+              "x": 913,
+              "y": 1118,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-5",
+              "x": 959,
+              "y": 1118,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-6",
+              "x": 1005,
+              "y": 1118,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-7",
+              "x": 1052,
+              "y": 1118,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-14-coluna-8",
+              "x": 1097,
+              "y": 1118,
+              "width": 46,
+              "height": 52
+            }
+          ],
+          "xPROD": "Vinho Importado",
+          "vUnCom": 150,
+          "cPROD": "36"
+        },
+        {
+          "id": 15,
+          "label": "frente-linha-15",
+          "roi": [
+            {
+              "id": "frente-linha-15-coluna-1",
+              "x": 771,
+              "y": 1170,
+              "width": 50,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-2",
+              "x": 821,
+              "y": 1170,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-3",
+              "x": 866,
+              "y": 1170,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-4",
+              "x": 913,
+              "y": 1170,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-5",
+              "x": 959,
+              "y": 1170,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-6",
+              "x": 1005,
+              "y": 1170,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-7",
+              "x": 1052,
+              "y": 1170,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-15-coluna-8",
+              "x": 1097,
+              "y": 1170,
+              "width": 46,
+              "height": 51
+            }
+          ],
+          "xPROD": "Vinho Nacional",
+          "vUnCom": 98,
+          "cPROD": "37"
+        },
+        {
+          "id": 16,
+          "label": "frente-linha-16",
+          "roi": [
+            {
+              "id": "frente-linha-16-coluna-1",
+              "x": 771,
+              "y": 1221,
+              "width": 50,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-2",
+              "x": 821,
+              "y": 1221,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-3",
+              "x": 866,
+              "y": 1221,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-4",
+              "x": 913,
+              "y": 1221,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-5",
+              "x": 959,
+              "y": 1221,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-6",
+              "x": 1005,
+              "y": 1221,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-7",
+              "x": 1052,
+              "y": 1221,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-16-coluna-8",
+              "x": 1097,
+              "y": 1221,
+              "width": 46,
+              "height": 51
+            }
+          ],
+          "xPROD": "Vinho Taça",
+          "vUnCom": 35,
+          "cPROD": "98"
+        },
+        {
+          "id": 17,
+          "label": "frente-linha-17",
+          "roi": [
+            {
+              "id": "frente-linha-17-coluna-1",
+              "x": 771,
+              "y": 1272,
+              "width": 50,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-2",
+              "x": 821,
+              "y": 1272,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-3",
+              "x": 866,
+              "y": 1272,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-4",
+              "x": 913,
+              "y": 1272,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-5",
+              "x": 959,
+              "y": 1272,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-6",
+              "x": 1005,
+              "y": 1272,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-7",
+              "x": 1052,
+              "y": 1272,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-17-coluna-8",
+              "x": 1097,
+              "y": 1272,
+              "width": 46,
+              "height": 51
+            }
+          ],
+          "xPROD": "Espumante Nacional",
+          "vUnCom": 130,
+          "cPROD": "39"
+        },
+        {
+          "id": 18,
+          "label": "frente-linha-18",
+          "roi": [
+            {
+              "id": "frente-linha-18-coluna-1",
+              "x": 771,
+              "y": 1323,
+              "width": 50,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-2",
+              "x": 821,
+              "y": 1323,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-3",
+              "x": 866,
+              "y": 1323,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-4",
+              "x": 913,
+              "y": 1323,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-5",
+              "x": 959,
+              "y": 1323,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-6",
+              "x": 1005,
+              "y": 1323,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-7",
+              "x": 1052,
+              "y": 1323,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-18-coluna-8",
+              "x": 1097,
+              "y": 1323,
+              "width": 46,
+              "height": 51
+            }
+          ],
+          "xPROD": "Espumante Taça",
+          "vUnCom": 38,
+          "cPROD": "100"
+        },
+        {
+          "id": 19,
+          "label": "frente-linha-19",
+          "roi": [
+            {
+              "id": "frente-linha-19-coluna-1",
+              "x": 771,
+              "y": 1374,
+              "width": 50,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-2",
+              "x": 821,
+              "y": 1374,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-3",
+              "x": 866,
+              "y": 1374,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-4",
+              "x": 913,
+              "y": 1374,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-5",
+              "x": 959,
+              "y": 1374,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-6",
+              "x": 1005,
+              "y": 1374,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-7",
+              "x": 1052,
+              "y": 1374,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "frente-linha-19-coluna-8",
+              "x": 1097,
+              "y": 1374,
+              "width": 46,
+              "height": 52
+            }
+          ],
+          "xPROD": "Clericot de Vinho",
+          "vUnCom": 78,
+          "cPROD": "40"
+        },
+        {
+          "id": 20,
+          "label": "frente-linha-20",
+          "roi": [
+            {
+              "id": "frente-linha-20-coluna-1",
+              "x": 771,
+              "y": 1426,
+              "width": 50,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-2",
+              "x": 821,
+              "y": 1426,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-3",
+              "x": 866,
+              "y": 1426,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-4",
+              "x": 913,
+              "y": 1426,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-5",
+              "x": 959,
+              "y": 1426,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-6",
+              "x": 1005,
+              "y": 1426,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-7",
+              "x": 1052,
+              "y": 1426,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "frente-linha-20-coluna-8",
+              "x": 1097,
+              "y": 1426,
+              "width": 46,
+              "height": 51
+            }
+          ],
+          "xPROD": "Clericot de Espumante",
+          "vUnCom": 198,
+          "cPROD": "90"
+        }
+      ]
+    },
+    {
+      "id": "verso",
+      "lines": [
+        {
+          "id": 22,
+          "label": "verso-linha-22",
+          "roi": [
+            {
+              "id": "verso-linha-22-coluna-1",
+              "x": 781,
+              "y": 218,
+              "width": 49,
+              "height": 54,
+              "verifica_encaixe": true
+            },
+            {
+              "id": "verso-linha-22-coluna-2",
+              "x": 830,
+              "y": 218,
+              "width": 46,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-3",
+              "x": 876,
+              "y": 218,
+              "width": 47,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-4",
+              "x": 923,
+              "y": 218,
+              "width": 45,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-5",
+              "x": 968,
+              "y": 218,
+              "width": 48,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-6",
+              "x": 1016,
+              "y": 218,
+              "width": 46,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-7",
+              "x": 1062,
+              "y": 218,
+              "width": 46,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-22-coluna-8",
+              "x": 1108,
+              "y": 218,
+              "width": 49,
+              "height": 54
+            }
+          ],
+          "cPROD": "46",
+          "xPROD": "Filé a Xadrez (bovino)",
+          "vUnCom": 93
+        },
+        {
+          "id": 23,
+          "label": "verso-linha-23",
+          "roi": [
+            {
+              "id": "verso-linha-23-coluna-1",
+              "x": 781,
+              "y": 272,
+              "width": 49,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-2",
+              "x": 830,
+              "y": 272,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-3",
+              "x": 876,
+              "y": 272,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-4",
+              "x": 923,
+              "y": 272,
+              "width": 45,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-5",
+              "x": 968,
+              "y": 272,
+              "width": 48,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-6",
+              "x": 1016,
+              "y": 272,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-7",
+              "x": 1062,
+              "y": 272,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-23-coluna-8",
+              "x": 1108,
+              "y": 272,
+              "width": 49,
+              "height": 50
+            }
+          ],
+          "cPROD": "47",
+          "xPROD": "Sanduíche Natural",
+          "vUnCom": 24
+        },
+        {
+          "id": 24,
+          "label": "verso-linha-24",
+          "roi": [
+            {
+              "id": "verso-linha-24-coluna-1",
+              "x": 781,
+              "y": 322,
+              "width": 49,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-2",
+              "x": 830,
+              "y": 322,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-3",
+              "x": 876,
+              "y": 322,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-4",
+              "x": 923,
+              "y": 322,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-5",
+              "x": 968,
+              "y": 322,
+              "width": 48,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-6",
+              "x": 1016,
+              "y": 322,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-7",
+              "x": 1062,
+              "y": 322,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-24-coluna-8",
+              "x": 1108,
+              "y": 322,
+              "width": 49,
+              "height": 52
+            }
+          ],
+          "cPROD": "49",
+          "xPROD": "Bolinho de Bacalhau (15 un)",
+          "vUnCom": 35
+        },
+        {
+          "id": 25,
+          "label": "verso-linha-25",
+          "roi": [
+            {
+              "id": "verso-linha-25-coluna-1",
+              "x": 781,
+              "y": 374,
+              "width": 49,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-2",
+              "x": 830,
+              "y": 374,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-3",
+              "x": 876,
+              "y": 374,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-4",
+              "x": 923,
+              "y": 374,
+              "width": 45,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-5",
+              "x": 968,
+              "y": 374,
+              "width": 48,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-6",
+              "x": 1016,
+              "y": 374,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-7",
+              "x": 1062,
+              "y": 374,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-25-coluna-8",
+              "x": 1108,
+              "y": 374,
+              "width": 49,
+              "height": 50
+            }
+          ],
+          "cPROD": "48",
+          "xPROD": "Bolinho de Queijo (15 un)",
+          "vUnCom": 28
+        },
+        {
+          "id": 26,
+          "label": "verso-linha-26",
+          "roi": [
+            {
+              "id": "verso-linha-26-coluna-1",
+              "x": 781,
+              "y": 424,
+              "width": 49,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-2",
+              "x": 830,
+              "y": 424,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-3",
+              "x": 876,
+              "y": 424,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-4",
+              "x": 923,
+              "y": 424,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-5",
+              "x": 968,
+              "y": 424,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-6",
+              "x": 1016,
+              "y": 424,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-7",
+              "x": 1062,
+              "y": 424,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-26-coluna-8",
+              "x": 1108,
+              "y": 424,
+              "width": 49,
+              "height": 51
+            }
+          ],
+          "cPROD": "50",
+          "xPROD": "Batata Frita",
+          "vUnCom": 32
+        },
+        {
+          "id": 27,
+          "label": "verso-linha-27",
+          "roi": [
+            {
+              "id": "verso-linha-27-coluna-1",
+              "x": 781,
+              "y": 475,
+              "width": 49,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-2",
+              "x": 830,
+              "y": 475,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-3",
+              "x": 876,
+              "y": 475,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-4",
+              "x": 923,
+              "y": 475,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-5",
+              "x": 968,
+              "y": 475,
+              "width": 48,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-6",
+              "x": 1016,
+              "y": 475,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-7",
+              "x": 1062,
+              "y": 475,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-27-coluna-8",
+              "x": 1108,
+              "y": 475,
+              "width": 49,
+              "height": 52
+            }
+          ],
+          "cPROD": "51",
+          "xPROD": "Pastel Misto (porção 10 un)",
+          "vUnCom": 29
+        },
+        {
+          "id": 28,
+          "label": "verso-linha-28",
+          "roi": [
+            {
+              "id": "verso-linha-28-coluna-1",
+              "x": 781,
+              "y": 527,
+              "width": 49,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-2",
+              "x": 830,
+              "y": 527,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-3",
+              "x": 876,
+              "y": 527,
+              "width": 47,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-4",
+              "x": 923,
+              "y": 527,
+              "width": 45,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-5",
+              "x": 968,
+              "y": 527,
+              "width": 48,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-6",
+              "x": 1016,
+              "y": 527,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-7",
+              "x": 1062,
+              "y": 527,
+              "width": 46,
+              "height": 50
+            },
+            {
+              "id": "verso-linha-28-coluna-8",
+              "x": 1108,
+              "y": 527,
+              "width": 49,
+              "height": 50
+            }
+          ],
+          "cPROD": "52",
+          "xPROD": "Pastel carne ou queijo (un)",
+          "vUnCom": 18
+        },
+        {
+          "id": 29,
+          "label": "verso-linha-29",
+          "roi": [
+            {
+              "id": "verso-linha-29-coluna-1",
+              "x": 781,
+              "y": 577,
+              "width": 49,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-2",
+              "x": 830,
+              "y": 577,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-3",
+              "x": 876,
+              "y": 577,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-4",
+              "x": 923,
+              "y": 577,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-5",
+              "x": 968,
+              "y": 577,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-6",
+              "x": 1016,
+              "y": 577,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-7",
+              "x": 1062,
+              "y": 577,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-29-coluna-8",
+              "x": 1108,
+              "y": 577,
+              "width": 49,
+              "height": 51
+            }
+          ],
+          "cPROD": "53",
+          "xPROD": "Risoles de camarão (8 un)",
+          "vUnCom": 32
+        },
+        {
+          "id": 30,
+          "label": "verso-linha-30",
+          "roi": [
+            {
+              "id": "verso-linha-30-coluna-1",
+              "x": 781,
+              "y": 628,
+              "width": 49,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-2",
+              "x": 830,
+              "y": 628,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-3",
+              "x": 876,
+              "y": 628,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-4",
+              "x": 923,
+              "y": 628,
+              "width": 45,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-5",
+              "x": 968,
+              "y": 628,
+              "width": 48,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-6",
+              "x": 1016,
+              "y": 628,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-7",
+              "x": 1062,
+              "y": 628,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-30-coluna-8",
+              "x": 1108,
+              "y": 628,
+              "width": 49,
+              "height": 53
+            }
+          ],
+          "cPROD": "54",
+          "xPROD": "Iscas de peixe a milanesa",
+          "vUnCom": 92
+        },
+        {
+          "id": 31,
+          "label": "verso-linha-31",
+          "roi": [
+            {
+              "id": "verso-linha-31-coluna-1",
+              "x": 781,
+              "y": 681,
+              "width": 49,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-2",
+              "x": 830,
+              "y": 681,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-3",
+              "x": 876,
+              "y": 681,
+              "width": 47,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-4",
+              "x": 923,
+              "y": 681,
+              "width": 45,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-5",
+              "x": 968,
+              "y": 681,
+              "width": 48,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-6",
+              "x": 1016,
+              "y": 681,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-7",
+              "x": 1062,
+              "y": 681,
+              "width": 46,
+              "height": 52
+            },
+            {
+              "id": "verso-linha-31-coluna-8",
+              "x": 1108,
+              "y": 681,
+              "width": 49,
+              "height": 52
+            }
+          ],
+          "cPROD": "41",
+          "xPROD": "Sorvete (duas bolas de creme com calda de frutas vermelhas)",
+          "vUnCom": 35,
+          "row_gap": 156
+        },
+        {
+          "id": 32,
+          "label": "verso-linha-32",
+          "roi": [
+            {
+              "id": "verso-linha-32-coluna-1",
+              "x": 781,
+              "y": 836,
+              "width": 51,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-2",
+              "x": 832,
+              "y": 836,
+              "width": 44,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-3",
+              "x": 876,
+              "y": 836,
+              "width": 47,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-4",
+              "x": 923,
+              "y": 836,
+              "width": 48,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-5",
+              "x": 971,
+              "y": 836,
+              "width": 45,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-6",
+              "x": 1016,
+              "y": 836,
+              "width": 48,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-7",
+              "x": 1064,
+              "y": 836,
+              "width": 46,
+              "height": 54
+            },
+            {
+              "id": "verso-linha-32-coluna-8",
+              "x": 1110,
+              "y": 836,
+              "width": 45,
+              "height": 54
+            }
+          ],
+          "cPROD": "91",
+          "xPROD": "Croqueta carne de panela (8un)",
+          "vUnCom": 46
+        },
+        {
+          "id": 33,
+          "label": "verso-linha-33",
+          "roi": [
+            {
+              "id": "verso-linha-33-coluna-1",
+              "x": 781,
+              "y": 890,
+              "width": 51,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-2",
+              "x": 832,
+              "y": 890,
+              "width": 44,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-3",
+              "x": 876,
+              "y": 890,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-4",
+              "x": 923,
+              "y": 890,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-5",
+              "x": 971,
+              "y": 890,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-6",
+              "x": 1016,
+              "y": 890,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-7",
+              "x": 1064,
+              "y": 890,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-33-coluna-8",
+              "x": 1110,
+              "y": 890,
+              "width": 45,
+              "height": 51
+            }
+          ],
+          "cPROD": "92",
+          "xPROD": "Croqueta proteína de soja (8un)",
+          "vUnCom": 42
+        },
+        {
+          "id": 34,
+          "label": "verso-linha-34",
+          "roi": [
+            {
+              "id": "verso-linha-34-coluna-1",
+              "x": 781,
+              "y": 941,
+              "width": 51,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-2",
+              "x": 832,
+              "y": 941,
+              "width": 44,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-3",
+              "x": 876,
+              "y": 941,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-4",
+              "x": 923,
+              "y": 941,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-5",
+              "x": 971,
+              "y": 941,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-6",
+              "x": 1016,
+              "y": 941,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-7",
+              "x": 1064,
+              "y": 941,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-34-coluna-8",
+              "x": 1110,
+              "y": 941,
+              "width": 45,
+              "height": 51
+            }
+          ],
+          "cPROD": "93",
+          "xPROD": "Croqueta de lentilha (8 un)",
+          "vUnCom": 42
+        },
+        {
+          "id": 35,
+          "label": "verso-linha-35",
+          "roi": [
+            {
+              "id": "verso-linha-35-coluna-1",
+              "x": 781,
+              "y": 992,
+              "width": 51,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-2",
+              "x": 832,
+              "y": 992,
+              "width": 44,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-3",
+              "x": 876,
+              "y": 992,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-4",
+              "x": 923,
+              "y": 992,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-5",
+              "x": 971,
+              "y": 992,
+              "width": 45,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-6",
+              "x": 1016,
+              "y": 992,
+              "width": 48,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-7",
+              "x": 1064,
+              "y": 992,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-35-coluna-8",
+              "x": 1110,
+              "y": 992,
+              "width": 45,
+              "height": 51
+            }
+          ],
+          "cPROD": "55",
+          "xPROD": "Petisco a moda do Chef",
+          "vUnCom": 96,
+          "row_gap": 116
+        },
+        {
+          "id": 36,
+          "label": "verso-linha-36",
+          "roi": [
+            {
+              "id": "verso-linha-36-coluna-1",
+              "x": 782,
+              "y": 1113,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-2",
+              "x": 829,
+              "y": 1113,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-3",
+              "x": 875,
+              "y": 1113,
+              "width": 49,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-4",
+              "x": 924,
+              "y": 1113,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-5",
+              "x": 971,
+              "y": 1113,
+              "width": 46,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-6",
+              "x": 1017,
+              "y": 1113,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-7",
+              "x": 1064,
+              "y": 1113,
+              "width": 47,
+              "height": 51
+            },
+            {
+              "id": "verso-linha-36-coluna-8",
+              "x": 1111,
+              "y": 1113,
+              "width": 45,
+              "height": 51
+            }
+          ],
+          "cPROD": "57",
+          "xPROD": "Entrada+prato principal (p/1 pessoa)",
+          "vUnCom": 98
+        },
+        {
+          "id": 37,
+          "label": "verso-linha-37",
+          "roi": [
+            {
+              "id": "verso-linha-37-coluna-1",
+              "x": 782,
+              "y": 1164,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-2",
+              "x": 829,
+              "y": 1164,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-3",
+              "x": 875,
+              "y": 1164,
+              "width": 49,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-4",
+              "x": 924,
+              "y": 1164,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-5",
+              "x": 971,
+              "y": 1164,
+              "width": 46,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-6",
+              "x": 1017,
+              "y": 1164,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-7",
+              "x": 1064,
+              "y": 1164,
+              "width": 47,
+              "height": 53
+            },
+            {
+              "id": "verso-linha-37-coluna-8",
+              "x": 1111,
+              "y": 1164,
+              "width": 45,
+              "height": 53
+            }
+          ],
+          "cPROD": "56",
+          "xPROD": "Entrada+prato principal (p/2 pessoas)",
+          "vUnCom": 138,
+          "row_gap": 129
+        },
+        {
+          "id": 38,
+          "label": "verso-linha-38",
+          "roi": [
+            {
+              "id": "verso-linha-38-coluna-1",
+              "x": 248,
+              "y": 1290,
+              "width": 50,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-2",
+              "x": 298,
+              "y": 1290,
+              "width": 45,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-3",
+              "x": 343,
+              "y": 1290,
+              "width": 48,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-4",
+              "x": 391,
+              "y": 1290,
+              "width": 44,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-5",
+              "x": 435,
+              "y": 1290,
+              "width": 46,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-6",
+              "x": 481,
+              "y": 1290,
+              "width": 47,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-7",
+              "x": 528,
+              "y": 1290,
+              "width": 47,
+              "height": 55
+            },
+            {
+              "id": "verso-linha-38-coluna-8",
+              "x": 575,
+              "y": 1290,
+              "width": 47,
+              "height": 55
+            }
+          ],
+          "cPROD": "58",
+          "xPROD": "Picolés",
+          "vUnCom": 17,
+          "roitoMark": 190
+        }
+      ]
+    }
+  ],
+  "tipoComanda": "frente-verso",
+  "testeFrente": {
+    "x": 15,
+    "y": 139,
+    "width": 423,
+    "height": 274,
+    "localizar": "bebidas"
+  },
+  "views": {},
+  "dimensoes": {
+    "largura": 105,
+    "altura": 135
+  },
+  "testeBase": {
+    "x": 15,
+    "y": 140,
+    "width": 220,
+    "height": 1400
+  },
+  "numeroComanda": {
+    "x": 348,
+    "y": 85,
+    "width": 802,
+    "height": 255
+  },
+  "alinhamentoFrente": [
+    "23",
+    "90"
+  ],
+  "alinhamentoVerso": [
+    "46",
+    "58"
+  ],
+  "alinhamentoFrenteAlternativo": [
+    "27",
+    "28",
+    "22",
+    "26",
+    "20",
+    "24",
+    "31",
+    "32",
+    "33",
+    "88",
+    "89",
+    "97",
+    "36",
+    "37",
+    "98",
+    "39",
+    "100",
+    "40"
+  ],
+  "alinhamentoVersoAlternativo": [
+    "47",
+    "49",
+    "48",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "41",
+    "91",
+    "92",
+    "93",
+    "55",
+    "57",
+    "56"
+  ],
+  "roitoMark": {
+    "frente": 718,
+    "verso": 710
+  },
+  "blockMark": {
+    "width": 33,
+    "height": 33
+  },
+  "modoOperacao": "producao",
+  "debugOptions": {
+    "testeEncaixe": false,
+    "marcaDetectada": true,
+    "falsoPositivo": false
+  },
+  "scanner": {
+    "device": "brother5:bus2;dev2",
+    "description": "Brother DS-740D USB scanner"
+  },
+  "paperFormat": "A5",
+  "paperFormatCustom": {
+    "width": 148,
+    "height": null
+  },
+  "scanResolution": 100,
+  "blockMark_gap": 13,
+  "row_gap": 51,
+  "produtosMap_idPROD": {
+    "20": 6,
+    "22": 4,
+    "23": 1,
+    "24": 7,
+    "26": 5,
+    "27": 2,
+    "28": 3,
+    "31": 8,
+    "32": 9,
+    "33": 10,
+    "36": 14,
+    "37": 15,
+    "39": 17,
+    "40": 19,
+    "41": 30,
+    "46": 21,
+    "47": 22,
+    "48": 24,
+    "49": 23,
+    "50": 25,
+    "51": 26,
+    "52": 27,
+    "53": 28,
+    "54": 29,
+    "55": 34,
+    "56": 36,
+    "57": 35,
+    "58": 37,
+    "88": 11,
+    "89": 12,
+    "90": 20,
+    "91": 31,
+    "92": 32,
+    "93": 33,
+    "97": 13,
+    "98": 16,
+    "100": 18
+  }
+}
