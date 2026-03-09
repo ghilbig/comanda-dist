@@ -1,9 +1,9 @@
 {
   "repository": "ghilbig/comanda",
-  "runId": "22810768818",
-  "workflow": "build-win.yml",
   "refName": "main",
-  "runNumber": "39",
-  "sha": "757bb6fcbc456be0a3aa3d025fb0f58adadd79bb",
-  "generatedAtUtc": "2026-03-08T00:55:56.2021085Z"
+  "sha": "ae7b9eb5b29e6778adac9f098fb2643a6c021174",
+  "workflow": "build-win.yml",
+  "generatedAtUtc": "2026-03-09T15:14:09.2427264Z",
+  "runNumber": "41",
+  "runId": "22860070363"
 }

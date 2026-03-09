@@ -1,8 +1,8 @@
-version: 0.122.0
+version: 0.125.0
 files:
-  - url: Comanda-Setup-0.122.0.exe
-    sha512: aDqbKIZEzDRrvk34cJJIcShNf4rbXAeJeR93zWIgG4TqY93eKcJMSOKCuvNuPR1boSbIROGriDS5txvFS6EXlw==
-    size: 134952651
-path: Comanda-Setup-0.122.0.exe
-sha512: aDqbKIZEzDRrvk34cJJIcShNf4rbXAeJeR93zWIgG4TqY93eKcJMSOKCuvNuPR1boSbIROGriDS5txvFS6EXlw==
-releaseDate: '2026-03-08T00:55:53.616Z'
+  - url: https://github.com/ghilbig/comanda-dist/releases/download/v0.125.0/Comanda-Setup-0.125.0.exe
+    sha512: hI/hiJbIrOxyrpPhnoJrRgytjibe2R8eLC4I9Hf5j8SUeW4dKj5J8LhPwmLYiMsF01VmBeCpPzoWOpHauIomXA==
+    size: 134954320
+path: https://github.com/ghilbig/comanda-dist/releases/download/v0.125.0/Comanda-Setup-0.125.0.exe
+sha512: hI/hiJbIrOxyrpPhnoJrRgytjibe2R8eLC4I9Hf5j8SUeW4dKj5J8LhPwmLYiMsF01VmBeCpPzoWOpHauIomXA==
+releaseDate: '2026-03-09T15:14:04.845Z'
