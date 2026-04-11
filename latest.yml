@@ -1,8 +1,8 @@
-version: 0.187.0
+version: 0.191.0
 files:
-  - url: https://github.com/ghilbig/comanda-dist/releases/download/v0.187.0/Comanda-Setup-0.187.0.exe
-    sha512: 8FFXIxB+2IXnos9W9v+X3wXKGRCO1l444wsCUM3QlPm5vRWiFITtOA7MfMrsKtli+VY3A8xQpUI6hC73EMMacA==
-    size: 135178107
-path: https://github.com/ghilbig/comanda-dist/releases/download/v0.187.0/Comanda-Setup-0.187.0.exe
-sha512: 8FFXIxB+2IXnos9W9v+X3wXKGRCO1l444wsCUM3QlPm5vRWiFITtOA7MfMrsKtli+VY3A8xQpUI6hC73EMMacA==
-releaseDate: '2026-04-11T20:29:43.386Z'
+  - url: https://github.com/ghilbig/comanda-dist/releases/download/v0.191.0/Comanda-Setup-0.191.0.exe
+    sha512: VVrvZVlD4U+4Hy06ef+n2ugJ0OkhSQrURPFMRfvv5MZ9rbbf+hoyJA6PyZCrUKjXS2XMNjg4gv3xxIAnk+tYrw==
+    size: 135178105
+path: https://github.com/ghilbig/comanda-dist/releases/download/v0.191.0/Comanda-Setup-0.191.0.exe
+sha512: VVrvZVlD4U+4Hy06ef+n2ugJ0OkhSQrURPFMRfvv5MZ9rbbf+hoyJA6PyZCrUKjXS2XMNjg4gv3xxIAnk+tYrw==
+releaseDate: '2026-04-11T20:43:50.117Z'
